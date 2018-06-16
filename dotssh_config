@@ -1,0 +1,6 @@
+Host *
+  User fabiano
+  StrictHostKeyChecking no
+  IdentityFile ~/.ssh/id_rsa
+  Compression yes
+  ControlMaster auto
